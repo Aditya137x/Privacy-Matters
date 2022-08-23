@@ -8,10 +8,10 @@ Well.. Let's find Out. In the following weeks I will be collecting date from Rea
 - [Signal](https://www.signal.org/) - End to End Encrypted Messenger for all platforms, a better alternative to What's app
 - [Bitwarden](https://bitwarden.com/) - Password Manager
 - [SimpleLogin](https://simplelogin.io/) - Email Alais
-- [DuckDuckGI]9https://duckduckgo.com/) - Private search engin alternative to Google
+- [DuckDuckGo](https://duckduckgo.com/) - Private search engin alternative to Google
 - [Mastodon](https://joinmastodon.org/) - Twitter Alternative
 - [Pixelfed](https://pixelfed.org/) - Instagram Alternative
-- [Libreddit}(https://libredd.it/) - Alternative reddit frontend
+- [Libreddit](https://libredd.it/) - Alternative reddit frontend
 - [Fedora](https://getfedora.org/) - Linux Desktop OS
 - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) - Android Launcher 
 - [Medito](https://meditofoundation.org/medito-app) - Meditation app for Android and IOS
