@@ -16,7 +16,7 @@ Well.. Let's find Out. In the following weeks I will be collecting date from Rea
 - [Medito](https://meditofoundation.org/medito-app) - Meditation app for Android and IOS
 - [Cashew](https://cashewapp.web.app/) - Money manager/tracker for Android
 - [Phone](https://github.com/FossifyOrg/Phone) - Just a Phone app
-- [Fossify Apps]([https://play.google.com/store/apps/dev?id=9070296388022589266&gl=US](https://github.com/FossifyOrg)) - A collection of simple apps like calender, contacts, clock etc or android.
+- [Fossify Apps](https://github.com/FossifyOrg) - A collection of simple apps like calender, contacts, clock etc or android.
 - [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves&gl=US) - Gallery app for Android
 - [Newpipe](https://github.com/TeamNewPipe/NewPipe) - Youtube client for android, iOS and web
 - [Aegis](https://github.com/beemdevelopment/Aegis) - 2FA app for Android
